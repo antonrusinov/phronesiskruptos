@@ -1,2 +1,1 @@
-# phronesiskruptos
-Phronesis Kruptos
+# Phronesis Kruptos
